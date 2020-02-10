@@ -1,0 +1,1 @@
+# This system deals with the maintenance and record keeping of drugs and consumables of an individual in the pharmacy unit. The main objective is to improve the working methods by replacing the Existing Manual System with Computer-based System.
