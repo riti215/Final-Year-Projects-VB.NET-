@@ -1,0 +1,257 @@
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.musteri.resources
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.ilacbilgi.resources
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.ilacsatis.resources
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.raportakip.resources
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.recetetakip.resources
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.stok.resources
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+C:\Documents and Settings\Okan Yüksel\Belgelerim\Visual Studio 2008\Projects\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.hakkinda.resources
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.hakkinda.resources
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.ilacsatis.resources
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.musteri.resources
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.ilacbilgi.resources
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.raportakip.resources
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.recetetakip.resources
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.stok.resources
+C:\Documents and Settings\Okan Yüksel\Desktop\eczane_otomasyon\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.hakkinda.resources
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.ilacsatis.resources
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.musteri.resources
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.ilacbilgi.resources
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.raportakip.resources
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.recetetakip.resources
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.stok.resources
+C:\Documents and Settings\bim.stajyer\Desktop\Okan\VB.NET\Okan YÜKSEL 11-TF 320\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.raportakip.resources
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.recetetakip.resources
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+C:\Documents and Settings\Santoo\My Documents\Downloads\Compressed\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+C:\Documents and Settings\tejas\Desktop\pro tiips\SANTA\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\Documents and Settings\tejas\Desktop\pro tiips\SANTA\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\Documents and Settings\tejas\Desktop\pro tiips\SANTA\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.raportakip.resources
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.recetetakip.resources
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+H:\VB PROJECT\vb.net pro\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.raportakip.resources
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.recetetakip.resources
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+C:\p\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+D:\projects\projects\vb.net\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+D:\projects\projects\vb.net\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+D:\projects\projects\vb.net\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+D:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.raportakip.resources
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.recetetakip.resources
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+D:\aaRJye project\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.raportakip.resources
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.recetetakip.resources
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+C:\Users\SONY\Desktop\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+F:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+F:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+F:\Gandhar VB.NET Project.NET\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+G:\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+C:\Users\Akshay Bhangale\Desktop\Ritesh Vb.net projects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+H:\vb\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\about.resx
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\about.Designer.vb
+C:\DOTNETprojects\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\about.vb
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\about.resx
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\about.Designer.vb
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\about.vb
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+C:\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.Cache
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\about.resx
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\about.Designer.vb
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\about.vb
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.exe
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.pdb
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\bin\Debug\eczane_otomasyon.xml
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbprojAssemblyReference.cache
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.anaform.resources
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.about.resources
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicinesales.resources
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.costumer.resources
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.medicineinformation.resources
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.Resources.resources
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.stock.resources
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.GenerateResource.cache
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.vbproj.CoreCompileInputs.cache
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.exe
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.xml
+C:\Users\Ritika\Documents\Custom Office Templates\ritika\PharmacyTrackingSystem0723\Pharmacy Tracking System\eczane_otomasyon\obj\Debug\eczane_otomasyon.pdb
